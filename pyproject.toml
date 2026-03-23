@@ -13,4 +13,4 @@ authors = [
 ]
 
 [tool.setuptools]
-packages = ["sqpt_demo_000XXXXX"]
+packages = ["app"]
